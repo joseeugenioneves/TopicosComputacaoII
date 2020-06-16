@@ -1,2 +1,3 @@
 # TopicosComputacaoII
-Exemplo de demonstração da disciplina
+Ambiente de demonstração da disciplina
+Esta é uma modificação...
